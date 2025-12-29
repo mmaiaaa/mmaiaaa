@@ -1,5 +1,5 @@
 # Hello People!
-I’m a Mechatronics Engineering student with hands-on experience in embedded systems, control systems, and robotics. Skilled in Arduino, MATLAB/Simulink, Python, and C++, with a strong foundation in electronics, sensors, and system integration.
+I’m a Mechatronics Engineering student with hands-on experience in embedded systems, control systems, and robotics. Skilled in MATLAB/Simulink, Python, and C++, with a strong foundation in electronics, sensors, and system integration.
 
 I’m passionate about designing intelligent mechatronic systems that bridge hardware and software to solve real-world problems. I’m continuously exploring advanced robotics, AI integration in control systems, and energy-efficient automation solutions. Outside of projects, I enjoy prototyping, experimenting with sensors, and turning theoretical ideas into practical systems.
 
