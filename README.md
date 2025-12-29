@@ -25,3 +25,7 @@ I’m passionate about designing intelligent mechatronic systems that bridge har
 
 # 🚀 My Projects!
 - **[Semi-Active Electromagnetic Suspension System Research](https://github.com/mmaiaaa/Semi-Active-Electromagnetic-Suspension)**
+
+
+### ⚡ Fun Fact
+I enjoy turning theoretical ideas into practical systems, experimenting with sensors, and building projects that integrate hardware and software.
